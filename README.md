@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 现就读于清华大学
+- 🌱 电子工程系本科在读
+- 🏠 出生于中华人民共和国辽宁省锦州市凌海市
+
+- 🔭 I’m currently studying in Tsinghua University.
+- 🌱 I’m currently learning electronic engineering.
+- 🏠 I was born in Linghai, Jinzhou, LiaoNing Province, in China.
