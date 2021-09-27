@@ -1,3 +1,6 @@
+
+![Timothy Liu's Github stats](https://github-readme-stats.vercel.app/api?username=Timothy-LiuXueFeng&show_icons=true&theme=tokyonight)
+
 ### Hi there 👋
 
 <!--
@@ -22,5 +25,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying in Tsinghua University.
 - 🌱 I’m currently learning electronic engineering.
 - 🏠 I was born in Linghai, Jinzhou, LiaoNing Province, in China.
-
-![Timothy Liu's Github stats](https://github-readme-stats.vercel.app/api?username=Timothy-LiuXueFeng&show_icons=true&theme=tokyonight)
