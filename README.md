@@ -1,5 +1,6 @@
 
-![Timothy Liu's Github stats](https://github-readme-stats.vercel.app/api?username=Timothy-LiuXueFeng&show_icons=true&theme=tokyonight)
+![Timothy Liu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timothy-LiuXueFeng&count_private=true&theme=tokyonight&bg_color=45,D5592B,7223DA)
+![Timothy Liu's Github stats](https://github-readme-stats.vercel.app/api?username=Timothy-LiuXueFeng&show_icons=true&count_private=true&theme=tokyonight&bg_color=45,D5592B,7223DA)
 
 ### Hi there 👋
 
