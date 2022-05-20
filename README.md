@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ||Languages|
 |:---:|:---:|
 |Accustomed|![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)|
-|Currently Used|![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Golang](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)|
+|Currently In Use|![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Golang](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)|
 |Others|![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow) ![Verilog](https://img.shields.io/badge/Verilog-B2B7F8?style=for-the-badge&logo=velog&logoColor=white)|
 
 ### Working with
