@@ -1,13 +1,13 @@
 
-![Timothy Liu's Top Langs](https://github-readme-stats-timothy-liuxf.vercel.app/api/top-langs/?username=Timothy-LiuXueFeng&langs_count=10&layout=compact&count_private=true&theme=tokyonight&border_color=000000&bg_color=45,D5592B,7223DA)
-![Timothy Liu's Github stats](https://github-readme-stats-timothy-liuxf.vercel.app/api?username=Timothy-LiuXueFeng&show_icons=true&count_private=true&theme=tokyonight&border_color=000000&bg_color=45,D5592B,7223DA)
+![Timothy Liu's Top Langs](https://github-readme-stats-timothy-liuxf.vercel.app/api/top-langs/?username=Timothy-Liuxf&langs_count=10&layout=compact&count_private=true&theme=tokyonight&border_color=000000&bg_color=45,D5592B,7223DA)
+![Timothy Liu's Github stats](https://github-readme-stats-timothy-liuxf.vercel.app/api?username=Timothy-Liuxf&show_icons=true&count_private=true&theme=tokyonight&border_color=000000&bg_color=45,D5592B,7223DA)
 
-![trophy](https://github-profile-trophy-timothy-liuxf.vercel.app/?username=Timothy-LiuXuefeng&theme=radical&margin-w=15&margin-h=15&no-bg=false&no-frame=false&rank=SSS,SS,S,AAA,AA,A,UNKNOWN,SECRET)
+![trophy](https://github-profile-trophy-timothy-liuxf.vercel.app/?username=Timothy-Liuxf&theme=radical&margin-w=15&margin-h=15&no-bg=false&no-frame=false&rank=SSS,SS,S,AAA,AA,A,UNKNOWN,SECRET)
 
 ### :clap: Hi there
 
 <!--
-**Timothy-LiuXuefeng/Timothy-LiuXuefeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Timothy-Liuxf/Timothy-Liuxf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
