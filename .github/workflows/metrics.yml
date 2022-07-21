@@ -21,7 +21,7 @@ jobs:
           # options
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
-          plugin_introduction: yes
+          # plugin_introduction: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
