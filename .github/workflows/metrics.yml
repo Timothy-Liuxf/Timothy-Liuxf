@@ -1,7 +1,8 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+  - cron: '0 0 * * *'
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -31,7 +32,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_languages_limit: 0
           plugin_followup: yes
-          plugin_followup_sections: [ repositories, user ]
+          plugin_followup_sections: repositories, user
           plugin_followup_archived: yes
           plugin_achievements: yes
           plugin_achievements_display: detailed
