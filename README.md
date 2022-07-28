@@ -52,3 +52,12 @@ Here are some ideas to get you started:
 ### :computer: Operating Systems
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### :phone: Contact or Follow me
+
+<a href="https://twitter.com/timothyliuxf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="timothyliuxf" height="30" width="40" /></a>
+<a href="https://fb.com/timothyliuxf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="timothyliuxf" height="30" width="40" /></a>
+<a href="https://leetcode.com/Timothy-Liuxf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="timothyliuxf" height="30" width="40" /></a>
+<a href="https://leetcode.cn/u/timothy-liu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="timothyliuxf" height="30" width="40" /></a>
+<a href="https://space.bilibili.com/434468426" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/bilibili.svg" alt="timothyliuxf" height="30" width="40" /></a>
+<a href="https://www.zhihu.com/people/timothy-liu-50" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/zhihu.svg" alt="timothyliuxf" height="30" width="40" /></a>
