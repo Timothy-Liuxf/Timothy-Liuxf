@@ -1,8 +1,8 @@
+![Timothy Liu's Github stats](https://github-readme-stats-timothy-liuxf.vercel.app/api?username=Timothy-Liuxf&show_icons=true&count_private=true&theme=tokyonight&border_color=000000&title_color=0366D6&bg_color=45,0D1117,0D1117,7223DA)
+
+![Timothy Liu's Top Langs](https://github-readme-stats-timothy-liuxf.vercel.app/api/top-langs/?username=Timothy-Liuxf&langs_count=10&layout=compact&count_private=true&theme=tokyonight&border_color=000000&title_color=0366D6&bg_color=45,0D1117,0D1117,7223DA)
 
 ![github-metrics](./github-metrics.svg)
-
-![Timothy Liu's Github stats](https://github-readme-stats-timothy-liuxf.vercel.app/api?username=Timothy-Liuxf&show_icons=true&count_private=true&theme=tokyonight&border_color=000000&bg_color=45,D5592B,7223DA)
-![Timothy Liu's Top Langs](https://github-readme-stats-timothy-liuxf.vercel.app/api/top-langs/?username=Timothy-Liuxf&langs_count=10&layout=compact&count_private=true&theme=tokyonight&border_color=000000&bg_color=45,D5592B,7223DA)
 
 ![trophy](https://github-profile-trophy-timothy-liuxf.vercel.app/?username=Timothy-Liuxf&theme=radical&margin-w=15&margin-h=15&no-bg=false&no-frame=false&rank=SSS,SS,S,AAA,AA,A,UNKNOWN,SECRET)
 
