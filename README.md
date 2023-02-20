@@ -1,3 +1,8 @@
+# *热烈恭喜鹰酱 Bilibili 百万粉丝！！！*
+# *Congratulations to Ying Jiang's fans on Bilibili reaching to 1 million!!!*
+
+---
+
 # [关注鹰酱喵！关注鹰酱谢谢喵！！！](https://space.bilibili.com/2051617240)
 
 # [Follow Ying Jiang MEOW! Follow Ying Jiang, thanks MEOW! ! !](https://space.bilibili.com/2051617240)
