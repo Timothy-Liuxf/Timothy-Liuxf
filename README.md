@@ -1,5 +1,5 @@
-# *热烈恭喜鹰酱 Bilibili 百万粉丝！！！*
-# *Congratulations to Ying Jiang's fans on Bilibili reaching to 1 million!!!*
+# [*鹰酱清华大学粉丝会鹰趴半程实录，全程高能！！！*](https://www.bilibili.com/video/BV1zT411B7VR)
+# [*Ying Jiang's fan meeting (Ying Party) in Tsinghua University, EXCITED!!!*](https://www.bilibili.com/video/BV1zT411B7VR)
 
 ---
 
