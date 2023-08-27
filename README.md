@@ -1,3 +1,5 @@
+<!--
+
 # [*鹰酱清华大学粉丝会鹰趴半程实录，全程高能！！！*](https://www.bilibili.com/video/BV1zT411B7VR)
 # [*Ying Jiang's fan meeting (Ying Party) in Tsinghua University, EXCITED!!!*](https://www.bilibili.com/video/BV1zT411B7VR)
 
@@ -9,17 +11,11 @@
 
 ## (ps: Ying Jiang is My Idol 😍😍😍)
 
----
+-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=timothyliuxf)
 
-![Timothy Liu's Github stats](https://github-readme-stats-timothy-liuxf.vercel.app/api?username=Timothy-Liuxf&show_icons=true&count_private=true&theme=tokyonight&border_color=000000&title_color=0366D6&bg_color=45,0D1117,0D1117,7223DA)
-
-![Timothy Liu's Top Langs](https://github-readme-stats-timothy-liuxf.vercel.app/api/top-langs/?username=Timothy-Liuxf&langs_count=10&layout=compact&count_private=true&theme=tokyonight&border_color=000000&title_color=0366D6&bg_color=45,0D1117,0D1117,7223DA)
-
-![github-metrics](./github-metrics.svg)
-
-![trophy](https://github-profile-trophy-timothy-liuxf.vercel.app/?username=Timothy-Liuxf&theme=radical&margin-w=15&margin-h=15&no-bg=false&no-frame=false&rank=SSS,SS,S,AAA,AA,A,UNKNOWN,SECRET)
+# Timothy Liu
 
 ### :clap: Hi there
 
@@ -44,7 +40,17 @@ Here are some ideas to get you started:
 
 - :telescope: I’m currently studying in Tsinghua University.
 - :seedling: I’m currently learning electronic engineering.
-- :house: I was born in Linghai, Jinzhou, LiaoNing Province, China.
+- :house: I was born in Linghai, Jinzhou, Liaoning Province, People's Republic of China.
+
+### :bar_chart: Metrics
+
+![Timothy Liu's Github stats](https://github-readme-stats-timothy-liuxf.vercel.app/api?username=Timothy-Liuxf&show_icons=true&count_private=true&theme=tokyonight&border_color=000000&title_color=0366D6&bg_color=45,0D1117,0D1117,7223DA)
+
+![Timothy Liu's Top Langs](https://github-readme-stats-timothy-liuxf.vercel.app/api/top-langs/?username=Timothy-Liuxf&langs_count=10&layout=compact&count_private=true&theme=tokyonight&border_color=000000&title_color=0366D6&bg_color=45,0D1117,0D1117,7223DA)
+
+![github-metrics](./github-metrics.svg)
+
+![trophy](https://github-profile-trophy-timothy-liuxf.vercel.app/?username=Timothy-Liuxf&theme=radical&margin-w=15&margin-h=15&no-bg=false&no-frame=false&rank=SSS,SS,S,AAA,AA,A,UNKNOWN,SECRET)
 
 ### :speech_balloon: Languages
 
