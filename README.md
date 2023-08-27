@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 
 ![github-metrics](./github-metrics.svg)
 
+### :trophy: Achievements
+
 ![trophy](https://github-profile-trophy-timothy-liuxf.vercel.app/?username=Timothy-Liuxf&theme=radical&margin-w=15&margin-h=15&no-bg=false&no-frame=false&rank=SSS,SS,S,AAA,AA,A,UNKNOWN,SECRET)
 
 ### :speech_balloon: Languages
