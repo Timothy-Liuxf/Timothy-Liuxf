@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 - :telescope: 现就读于清华大学
 - :seedling: 电子工程系本科在读
-- :house: 出生于中华人民共和国辽宁省锦州市凌海市
+- :house: 出生于中华人民共和国辽宁省锦州市凌海市 <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/cn.svg" width="20" alt="🇨🇳" />
 
 - :telescope: I’m currently studying in Tsinghua University.
 - :seedling: I’m currently learning electronic engineering.
-- :house: I was born in Linghai, Jinzhou, Liaoning Province, People's Republic of China.
+- :house: I was born in Linghai, Jinzhou, Liaoning Province, People's Republic of China <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="20" alt="🇨🇳" />.
 
 ### :bar_chart: Metrics
 
