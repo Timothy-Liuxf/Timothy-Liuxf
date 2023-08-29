@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 -->
 
 - :telescope: 现就读于清华大学
-- :seedling: 电子工程系本科在读
+- :seedling: 网研院直博在读
 - :house: 出生于中华人民共和国辽宁省锦州市凌海市 <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/cn.svg" width="20" alt="🇨🇳" />
 
 - :telescope: I’m currently studying in Tsinghua University.
