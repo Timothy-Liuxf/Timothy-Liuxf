@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 - :seedling: 2023.09 至今 清华大学网络科学与网络空间研究院，博士在读
 - :mortar_board: 2019.08 \~ 2023.06 清华大学电子工程系，电子信息科学与技术专业，学士学位
 
-- :house: I was born in Linghai, Jinzhou, Liaoning Province, People's Republic of China <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="20" alt="🇨🇳" />.
-- :telescope: I’m currently studying in Tsinghua University.
-- :seedling: 2023.09 to now, Ph.D. student at the Institute for Network Science and Cyberspace, Tsinghua University
-- :mortar_board: 2019.08 \~ 2023.06 Bachelor's degree in Electronic Information Science and Technology, the Department of Electronic Engineering, Tsinghua University
++ :house: I was born in Linghai, Jinzhou, Liaoning Province, People's Republic of China <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="20" alt="🇨🇳" />.
++ :telescope: I’m currently studying in Tsinghua University.
++ :seedling: 2023.09 to now, Ph.D. student at the Institute for Network Science and Cyberspace, Tsinghua University
++ :mortar_board: 2019.08 \~ 2023.06 Bachelor's degree in Electronic Information Science and Technology, the Department of Electronic Engineering, Tsinghua University
 
 ### :bar_chart: Metrics
 
