@@ -13,7 +13,7 @@
 
 -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=timothyliuxf)
+[![Profile Views](https://komarev.com/ghpvc/?username=timothyliuxf)](https://komarev.com/sources/github-profile-views-counter)
 
 # Timothy Liu
 
