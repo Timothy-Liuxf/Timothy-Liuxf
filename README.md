@@ -21,7 +21,7 @@
 
 </div>
 
-## Resume
+## Introduction
 
 ### :clap: Hi there
 
