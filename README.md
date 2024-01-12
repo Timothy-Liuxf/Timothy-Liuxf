@@ -13,9 +13,15 @@
 
 -->
 
-[![Profile Views](https://komarev.com/ghpvc/?username=timothyliuxf)](https://komarev.com/sources/github-profile-views-counter)
+<div id="title" align=center>
 
 # Timothy Liu
+
+[![Profile Views](https://komarev.com/ghpvc/?username=timothyliuxf)](https://komarev.com/sources/github-profile-views-counter)
+
+</div>
+
+## Resume
 
 ### :clap: Hi there
 
